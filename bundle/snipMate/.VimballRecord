@@ -1,0 +1,1 @@
+tcomment.vba: call delete('/home/lud00/.vim/bundle/snipMate/doc/tcomment.txt')|call delete('/home/lud00/.vim/bundle/snipMate/plugin/tcomment.vim')|call delete('/home/lud00/.vim/bundle/snipMate/autoload/tcomment.vim')

@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/lud00/essai'
+let g:netrw_dirhist_2='/home/lud00/Documents/Ensicaen/tp-odl/tp4/src/jeuvie'
+let g:netrw_dirhist_3='/home/lud00/Documents/Ensicaen/tp-odl/tp4/src/matrice'
+let g:netrw_dirhist_4='/home/lud00/Documents/Ensicaen/tp-odl/tp4/src/jeuvie'
